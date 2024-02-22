@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChessClient",
+    "\\ChessClient\\Classes",
+    "\\ChessServer"
+  ],
+  "SelectedNode": "\\ChessClient\\Classes\\GameMatch.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,2 @@
+obj\Debug\net8.0-windows\Protos/Acess.cs \
+obj\Debug\net8.0-windows\Protos/AcessGrpc.cs: Protos/acess.proto

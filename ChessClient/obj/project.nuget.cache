@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYfYTXcTBhq1OXAj3GU6EU2++3/c0BlrME/oYHC3yZw92D718dsHRANhtkVpEkcO3jBI3P9mX77qsuPv6SHsLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitor Novo\\Desktop\\ShoraWebsite\\ChessMultiplayer\\ChessClient\\ChessClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitor Novo\\.nuget\\packages\\google.protobuf\\3.25.3\\google.protobuf.3.25.3.nupkg.sha512",
+    "C:\\Users\\Vitor Novo\\.nuget\\packages\\grpc.core.api\\2.60.0\\grpc.core.api.2.60.0.nupkg.sha512",
+    "C:\\Users\\Vitor Novo\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
+    "C:\\Users\\Vitor Novo\\.nuget\\packages\\grpc.net.common\\2.60.0\\grpc.net.common.2.60.0.nupkg.sha512",
+    "C:\\Users\\Vitor Novo\\.nuget\\packages\\grpc.tools\\2.61.0\\grpc.tools.2.61.0.nupkg.sha512",
+    "C:\\Users\\Vitor Novo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

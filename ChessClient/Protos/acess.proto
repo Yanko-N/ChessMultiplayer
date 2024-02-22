@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+option csharp_namespace = "ChessClient";
+
+package acess;
+
+// The acess service definition.
+service Acesser {
+
+  rpc Connect (ConnectRequest) returns (ConnectReply);
+  rpc AskMatch(MatchRequest) returns (MatchReply);
+}
+
+
+message MatchRequest{
+	string clientId = 1;
+}
+
+message MatchReply{
+	string matchId = 1;
+	string BoardInNotation = 2;
+	bool yourTurn = 3;
+}
+
+// The request message containing the user's name.
+message ConnectRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message ConnectReply {
+	string id = 1;
+	string name = 2;
+	bool inGame = 3;
+
+}
